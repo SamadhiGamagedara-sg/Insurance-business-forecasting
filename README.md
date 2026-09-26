@@ -285,4 +285,14 @@ Potential applications include:
 
 ## 🔮 Future Improvements
 
-P
+Potential extensions include:
+
+Incorporating real publicly available insurance industry data
+Adding macroeconomic indicators
+Adding customer retention/churn prediction
+Adding policy-level risk segmentation
+Adding automated monthly alerts
+Deploying the application online
+Adding explainable ML models
+Connecting the dashboard to a live database/API
+
